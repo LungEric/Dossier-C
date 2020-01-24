@@ -1,0 +1,12 @@
+word[315]:AAAA is palindrome
+word[349]:HGH is palindrome
+word[387]:DELEVELED is palindrome
+word[396]:ESE is palindrome
+word[405]:eye is palindrome
+word[414]:GAG is palindrome
+word[429]:KAZAK is palindrome
+word[445]:TEET is palindrome
+word[531]:soos is palindrome
+word[544]:aibohphobia is palindrome
+word[558]:dod is palindrome
+word[613]:yay is palindrome

@@ -1,0 +1,10 @@
+ The word : abba is not a palindrome.
+ The word : apple is a palindrome.
+ The word : ý is a palindrome.
+ The word : abcba is a palindrome.
+ The word : ý is not a palindrome.
+ The word : @ò“áý is a palindrome.
+ The word : pomme is a palindrome.
+ The word : ý is a palindrome.
+ The word : @ò“áý is a palindrome.
+ The word :  is a palindrome.

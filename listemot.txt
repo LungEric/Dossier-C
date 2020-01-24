@@ -1,0 +1,6 @@
+arbre and size : 5
+pomme and size : 5
+patate and size : 6
+feu and size : 3
+mort and size : 4
+vision and size : 6
